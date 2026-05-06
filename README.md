@@ -35,22 +35,8 @@ to extract keywords, generate hashtags, and assign confidence scores.
     <li>spaCy</li>
 </ul>
 
-<h2 id="installation">Installation</h2>
-<pre>
-git clone https://github.com/khushiojha/Post-analysis.git
-cd Post-analysis
-pip install -r requirements.txt
-python app.py
-</pre>
 
-<h2 id="usage">Usage</h2>
-<p>Send POST request with JSON:</p>
 
-<pre>
-{
-  "text": "Your content here"
-}
-</pre>
 
 </body>
 </html>

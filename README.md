@@ -9,8 +9,7 @@
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#features">Features</a></li>
     <li><a href="#technologies">Technologies Used</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#usage">Usage</a></li>
+    
 </ul>
 
 <h2 id="introduction">Introduction</h2>
